@@ -25,6 +25,7 @@ Every commit name should start with one of these keywords, (all lower case).
 
 - `create`, is used whenever implementing something new, like a calculator function.
 - `add`, is used whenever adding something to an already existing feature, like adding multiplication to the calculator function.
+- `update`, is used mainly when updating config files like `.toml`.
 - `fix`, whenever a commit has unusable code, like fixing a broken function.
 - `re-struct`, used whenever already existing code is polished/re-organised without effecting its functionality, like making the calculator function more easily understandable.
 - `remove`, used whenever deleting functionality.
