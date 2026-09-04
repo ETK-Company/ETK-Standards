@@ -1,0 +1,9 @@
+main = "server.js"
+compatibility_date = "2026-09-04" # replace with current date
+
+[observability]
+enabled = true
+
+[[routes]]
+pattern = "api.domain.com" # replace with domain
+custom_domain = true
